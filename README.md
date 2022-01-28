@@ -4,7 +4,7 @@ Paper: 3D Bounding Box Estimation Using Deep Learning and Geometry
 
 The main aim of this project is to predict the dimensions and heading of the vehicle in 3D coordinate with C++.  So the net model will be constructed and trained with keras for its convenience and transferred into .json so it can be used with C++.
 
-![image-20220128213109949](/home/kiki/snap/typora/46/.config/Typora/typora-user-images/image-20220128213109949.png)
+![image](https://github.com/jqfromsjtu/multibin_repo/blob/master/result.jpg)
 
 The regressed parameters are still not accurate enough and slight differences may cause severe deviation in 3D coordinate. I intend to combine with sparse Lidar point cloud to rectify the deviation in my own project.
 
